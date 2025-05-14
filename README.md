@@ -1,6 +1,6 @@
 # Hi there, I'm John Simon Mboya 👋
 
-![Banner Image])](https://media.licdn.com/dms/image/v2/D4D16AQGb2AUYi0oEAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738166227945?e=1752710400&v=beta&t=yUBLy7ZX3K2guAnMFgtbf3J7sToPrSc7LVV8oHB05A4)
+https://media.licdn.com/dms/image/v2/D4D16AQGb2AUYi0oEAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738166227945?e=1752710400&v=beta&t=yUBLy7ZX3K2guAnMFgtbf3J7sToPrSc7LVV8oHB05A4
 
 ## About Me 🚀
 
