@@ -1,6 +1,6 @@
 # Hi there, I'm John Simon Mboya 👋
 
-https://media.licdn.com/dms/image/v2/D4D16AQGb2AUYi0oEAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738166227945?e=1752710400&v=beta&t=yUBLy7ZX3K2guAnMFgtbf3J7sToPrSc7LVV8oHB05A4
+
 
 ## About Me 🚀
 
@@ -39,7 +39,7 @@ I'm a passionate **[customer care executive/ frontend devOps]** with experience 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**www.linkedin.com/in/mr-john-mboya
+- **[Twitter]**https://x.com/JohnDeblaze
 
 
